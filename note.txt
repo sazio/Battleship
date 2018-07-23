@@ -1,0 +1,6 @@
+controlli in :
+mainBs.cpp: ~80/100--------- ~50
+
+Fleet.cpp: funzione FleetIsSunk
+
+Ship.cpp: funzione ShipIsSunk
